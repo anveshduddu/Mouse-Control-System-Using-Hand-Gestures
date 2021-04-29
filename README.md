@@ -37,12 +37,10 @@ Step 3: Recognizing the hand gestures.
 Step4: Performing the mouse functions
 Our strategy is to utilize the built-in webcam of a computer, for capturing hand gestures and process them to perform the action. 
 The system captures frames using the webcam and use opencv2 to processes the captured frames over a sequence of digital image processing libraries to convert the images to grey scale for easy recognition of fingers.  The model recognizes different hand gestures given by user and perform the actions. The proposed model is primarily based on machine learning and makes use of CNN (Convolution neural network) for processing, classification, segmentation of the captured images
+
 6.EXPERIMENTAL RESULTS
 The proposed Model was implemented in Python using OpenCV Library. It is trained with different hand gestures to control the Mouse functions in Operating System using CNN (Convolutional Neural Network). The purpose of CNN is to train the model. Cursor movement was performed by using Symbol “One”, Left click functions were performed using Symbol “Two”, Right click functions were performed using symbol “Five”.
 When the symbol one is recognized, camera captures the image and process the image for hand gestures and perform the mouse cursor movement assigned by using python libraries. Model is trained with 860 images of hand gestures. The accuracy of training is 99.59%. The drawback while recognizing the hand gesture is if any object other than hand gestures are in the frame during capture the model was not able to perform the actions.
-
-
-
 
 7. CONCLUSION AND FUTURE WORK
 Therefore, in a nutshell, the proposed system is used to control the mouse to perform the basic mouse capabilities using a just a straight up web camera or one that’s attached to the computer. By doing so we were able to perform most of the mouse functions like cursor movement, selection of the icons, right/left clicking, double clicking and scrolling. 
@@ -51,20 +49,9 @@ This system can be very useful in presentations, designing and for controlling d
  In the future, we are planning to add even more features such as dragging and resizing windows, zooming in and out by pinching in, interaction within multiple windows over multiple applications etc. We have to decrease the overall response time of the system so that it can entirely replace the conventional mouse.
 Also, we look forward in making it even more user-friendly by letting the user define their own gestures according to their preference.
 References
-[1]	“Real-time motion-based hand gestures recognition from time-of- flight video”. Signal Process. Syst. 2017, 86, 17–25. Published by Molina, Paulo and Martínez.
+.	“Real-time motion-based hand gestures recognition from time-of- flight video”. Signal Process. Syst. 2017, 86, 17–25. Published by Molina, Paulo and Martínez.
 [2]	“Hand Gesture Recognition” Int. J. Recent Technol. Eng. 2019, 7 ,54–59. Published by Prakash J, Gautam, U.K.
 [3]	“Real-time Hand Tracking Using Kinect”, International Conference on Digital Signal Processing, Tokyo, Japan, 25–27 February 2018. Published by Xi, C. Chen, J. Zhao, C. Pei, Q. Liu, L.
 [4]	Pattern Recognition, finger and hand pose estimation technique for real-time hand gesture recognition. 2016, 49, 102–114. Published by Zhou, Y.; Jiang, G.; Lin, 
 [5]	“A real time hand gesture recognition system using motion history image,” Proc. IEEE Conf. Signal Processing Systems (ICSPS),2010. Published by Chaung Hsieh, Hua Lieu, & D. Lee.
 [6]  “Real Time Static & Dynamic Hand Gesture Recognition,”            International Journal of Scientific & Engineering Research, Vol. 4, Issue3, March 2013, published by P.S. Neethu
-
-
-
-
-
-
-
-
-
-
-
