@@ -51,8 +51,8 @@ Also, we look forward in making it even more user-friendly by letting the user d
 
 References
 *	“Real-time motion-based hand gestures recognition from time-of- flight video”. Signal Process. Syst. 2017, 86, 17–25. Published by Molina, Paulo and Martínez.
-[2]	“Hand Gesture Recognition” Int. J. Recent Technol. Eng. 2019, 7 ,54–59. Published by Prakash J, Gautam, U.K.
-[3]	“Real-time Hand Tracking Using Kinect”, International Conference on Digital Signal Processing, Tokyo, Japan, 25–27 February 2018. Published by Xi, C. Chen, J. Zhao, C. Pei, Q. Liu, L.
-[4]	Pattern Recognition, finger and hand pose estimation technique for real-time hand gesture recognition. 2016, 49, 102–114. Published by Zhou, Y.; Jiang, G.; Lin, 
-[5]	“A real time hand gesture recognition system using motion history image,” Proc. IEEE Conf. Signal Processing Systems (ICSPS),2010. Published by Chaung Hsieh, Hua Lieu, & D. Lee.
-[6]  “Real Time Static & Dynamic Hand Gesture Recognition,”            International Journal of Scientific & Engineering Research, Vol. 4, Issue3, March 2013, published by P.S. Neethu
+*	“Hand Gesture Recognition” Int. J. Recent Technol. Eng. 2019, 7 ,54–59. Published by Prakash J, Gautam, U.K.
+*	“Real-time Hand Tracking Using Kinect”, International Conference on Digital Signal Processing, Tokyo, Japan, 25–27 February 2018. Published by Xi, C. Chen, J. Zhao, C. Pei, Q. Liu, L.
+*	Pattern Recognition, finger and hand pose estimation technique for real-time hand gesture recognition. 2016, 49, 102–114. Published by Zhou, Y.; Jiang, G.; Lin, 
+*	“A real time hand gesture recognition system using motion history image,” Proc. IEEE Conf. Signal Processing Systems (ICSPS),2010. Published by Chaung Hsieh, Hua Lieu, & D. Lee.
+*  “Real Time Static & Dynamic Hand Gesture Recognition,”            International Journal of Scientific & Engineering Research, Vol. 4, Issue3, March 2013, published by P.S. Neethu
