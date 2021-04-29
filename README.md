@@ -48,8 +48,9 @@ Therefore, in a nutshell, the proposed system is used to control the mouse to pe
 This system can be very useful in presentations, designing and for controlling different types of games and other applications. It can also reduce hardware cost by eliminating the use of mouse. This can also be of great help for the differently-abled, as they might not be able to use the conventional mouse like the others.
  In the future, we are planning to add even more features such as dragging and resizing windows, zooming in and out by pinching in, interaction within multiple windows over multiple applications etc. We have to decrease the overall response time of the system so that it can entirely replace the conventional mouse.
 Also, we look forward in making it even more user-friendly by letting the user define their own gestures according to their preference.
+
 References
-.	“Real-time motion-based hand gestures recognition from time-of- flight video”. Signal Process. Syst. 2017, 86, 17–25. Published by Molina, Paulo and Martínez.
+*	“Real-time motion-based hand gestures recognition from time-of- flight video”. Signal Process. Syst. 2017, 86, 17–25. Published by Molina, Paulo and Martínez.
 [2]	“Hand Gesture Recognition” Int. J. Recent Technol. Eng. 2019, 7 ,54–59. Published by Prakash J, Gautam, U.K.
 [3]	“Real-time Hand Tracking Using Kinect”, International Conference on Digital Signal Processing, Tokyo, Japan, 25–27 February 2018. Published by Xi, C. Chen, J. Zhao, C. Pei, Q. Liu, L.
 [4]	Pattern Recognition, finger and hand pose estimation technique for real-time hand gesture recognition. 2016, 49, 102–114. Published by Zhou, Y.; Jiang, G.; Lin, 
